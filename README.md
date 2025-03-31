@@ -23,5 +23,9 @@ I was presented with a spreadsheet to analyze Bike sales based on metrics such a
 ## Dashboard
 <img width="771" alt="Screenshot 2025-03-31 at 08 53 37" src="https://github.com/user-attachments/assets/98e2b838-88f5-418f-a09d-27cf855847cf" />
 
+## Project Insight
+•	Customers purchase bikes for more short distance commuting
+•	More middle-aged people are interested in purchasing bikes
+•	Men are more likely to buy bikes than women.
 
 
