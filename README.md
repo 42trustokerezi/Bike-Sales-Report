@@ -7,5 +7,18 @@ I was presented with a spreadsheet to analyze Bike sales based on metrics such a
 ## Dataset Used
 <a href=https://github.com/42trustokerezi/Bike-Sales-Report/blob/main/Bike%20Sales.xlsx>Bike Sales Report</a>
 
+## Key Performance Indicators (KPI)
+•	What gender makes the most purchase?
+•	How does commute distance influence bike purchase?
+•	What age bracket buys the most bikes?
+
+## Process
+•	Removed duplicates to ensure accurate analysis.
+•	Renamed cell contents in “Marital Status” and “Gender” columns for easy identification.
+•	Created a new column, “Age brackets” to categorize customer Age into “Adolescent”, “Middle-aged”, and “Old”.
+•	Created pivot tables to analyze data according to KPI.
+•	Developed Dashboard using charts generated from the pivot tables.
+•	Applied Slicers to make charts dynamic.
+
 
 
